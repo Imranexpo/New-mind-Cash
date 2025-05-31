@@ -1,0 +1,7 @@
+:root {
+    --secondary: 259 27% 53%; 
+  }
+.text-brand {
+    color: hsl(259, 27%, 53%);
+}
+  
